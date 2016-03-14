@@ -5,19 +5,19 @@ inNav: false
 inLanguage: null
 starred: false
 keywords: []
-description: 'The CardPlus Empower Program:'
-datePublished: '2016-03-14T02:41:34.576Z'
-dateModified: '2016-03-14T02:39:48.601Z'
+description: "The CardPlus®\_Empower Program:\_Flexible, alternative financing for you and your customers.\_"
+datePublished: '2016-03-14T02:51:02.347Z'
+dateModified: '2016-03-14T02:51:01.621Z'
 title: ''
 author: []
+sourcePath: _posts/2016-03-14-the-cardplus-empower-program.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2016-03-14-the-cardplus-empower-program.md
-published: true
 url: the-cardplus-empower-program/index.html
 _type: Article
 
@@ -26,8 +26,8 @@ _type: Article
 
 **The CardPlus(r) Empower Program: Flexible, alternative financing for you and your customers. **
 
-* One of the biggest obstacles to growth for small businesses is the lack or difficulty in obtaining financing.  Now CardPlus(r) offers merchants, and their customers, easy and flexible alternative financing options with comfortable payment terms.  
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/43af9eae-4877-4bef-97c0-40b9710704e8.jpg)
+* One of the biggest obstacles to growth for small businesses is the lack or difficulty in obtaining financing.  Now CardPlus(r) offers merchants, and their customers, easy and flexible alternative financing options with comfortable payment terms.
+![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/ac18bb6bec0c4f4aa6917b6553df1951549bf011.jpg)
 
 ## Empower your customers to purchase your products and services.
 
