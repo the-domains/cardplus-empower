@@ -1,7 +1,7 @@
 name: CardPlus Empower
 favicon: null
-layout_spectrum: 0.5475582596845925
-typography_spectrum: 0.4302647935692221
+layout_spectrum: 1
+typography_spectrum: 0.47769
 cta:
   domain: null
   bucket: null
