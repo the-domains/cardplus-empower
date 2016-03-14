@@ -2,16 +2,16 @@
     <channel>
         <title><![CDATA[CardPlus Empower]]></title>
         <description><![CDATA[CardPlus Empower]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/cardplus-empower/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 14 Mar 2016 02:41:41 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Mon, 14 Mar 2016 02:51:03 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/cardplus-empower/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
-            <description><![CDATA[<img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/ad108fffb458e4dfffc6d26d270d4224d6371226.png" alt="" title="" />]]></description>
-            <link>undefinedthe-cardplus-empower-program/index.html</link>
+            <description><![CDATA[<img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/ad108fffb458e4dfffc6d26d270d4224d6371226.png" alt="" title="">]]></description>
+            <link>https://thegrid.ai/cardplus-empower/the-cardplus-empower-program/index.html</link>
             <guid isPermaLink="false">10e87f74-f312-4709-8b4d-a756129b1c2d</guid>
-            <pubDate>Mon, 14 Mar 2016 02:41:34 GMT</pubDate>
+            <pubDate>Mon, 14 Mar 2016 02:51:02 GMT</pubDate>
         </item>
     </channel>
 </rss>
