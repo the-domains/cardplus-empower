@@ -3,11 +3,11 @@ inFeed: true
 hasPage: true
 inNav: false
 inLanguage: null
-starred: false
+starred: true
 keywords: []
 description: "The CardPlus®\_Empower Program:\_Flexible, alternative financing for you and your customers.\_"
-datePublished: '2016-03-14T02:51:02.347Z'
-dateModified: '2016-03-14T02:51:01.621Z'
+datePublished: '2016-03-26T01:59:57.184Z'
+dateModified: '2016-03-26T01:59:44.625Z'
 title: ''
 author: []
 sourcePath: _posts/2016-03-14-the-cardplus-empower-program.md
