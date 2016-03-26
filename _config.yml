@@ -1,6 +1,6 @@
 name: CardPlus Empower
 favicon: null
-layout_spectrum: 0.94954
+layout_spectrum: 0.65818
 typography_spectrum: 0.49011
 title: Title Page
 cta:
@@ -24,6 +24,6 @@ color:
     - '#94d598'
   brandStrength: 0.6875
   lightness: 0.75
-  saturation: 0.6875
+  saturation: 0.75
   rhythmicContrast: 0.5
 purpose: []
